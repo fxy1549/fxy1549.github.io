@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://fxy1549.github.io</id>
+    <title>CCTT</title>
+    <updated>2020-02-23T10:49:03.997Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://fxy1549.github.io"/>
+    <link rel="self" href="https://fxy1549.github.io/atom.xml"/>
+    <subtitle>&lt;front size=&quot;4&quot; color=&quot;white&quot; faxe=&quot;New Times Roman&quot;&gt;&lt;center&gt;A blog about our life&lt;/front&gt;</subtitle>
+    <logo>https://fxy1549.github.io/images/avatar.png</logo>
+    <icon>https://fxy1549.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, CCTT</rights>
+    <entry>
+        <title type="html"><![CDATA[python-生成工程依赖包文件]]></title>
+        <id>https://fxy1549.github.io/post/python-sheng-cheng-gong-cheng-yi-lai-bao-wen-jian/</id>
+        <link href="https://fxy1549.github.io/post/python-sheng-cheng-gong-cheng-yi-lai-bao-wen-jian/">
+        </link>
+        <updated>2020-02-23T10:42:26.000Z</updated>
+        <content type="html"><![CDATA[<p>在使用python进行编程时，往往会用到很多依赖包，pipreqs工具能够帮助我们扫描某一工程，并生成其所使用到的所有依赖包清单。<br>
+首先确认计算机中是否安装有pipreqs工具，如果没有，安装此工具。<br>
+具体做法是，打开terminal，键入指令<code>pip3 install pipreqs</code>，安装完成后确认是否安装成功（键入指令<code>pipreqs --version</code>如果安装没有报错可以不做），安装完成后进入你要查询的工程目录（pycharm中的终端操作也可以），键入指令<code>pipreqs ./</code>，完成后会生成名字为requirements.txt的文本文档，里面就是该工程下所有依赖包及其版本。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello PhD-Guo]]></title>
+        <id>https://fxy1549.github.io/post/Hello-Guo Xiaoyu/</id>
+        <link href="https://fxy1549.github.io/post/Hello-Guo Xiaoyu/">
+        </link>
+        <updated>2020-02-23T10:38:55.000Z</updated>
+        <content type="html"><![CDATA[<p>👏  欢迎来到 <strong>CCTT</strong> ！<br>
+✍️  我想在这里记录你，记录我们的生活... ...</p>
+<figure data-type="image" tabindex="1"><img src="https://fxy1549.github.io/post-images/1582454269765.JPG" alt="" loading="lazy"></figure>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
