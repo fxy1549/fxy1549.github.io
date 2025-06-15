@@ -7,7 +7,7 @@
     <link rel="alternate" href="https://fxy1549.github.io"/>
     <link rel="self" href="https://fxy1549.github.io/atom.xml"/>
     <subtitle>&lt;front size=&quot;4&quot; color=&quot;white&quot; faxe=&quot;New Times Roman&quot;&gt;&lt;center&gt;A blog about our life&lt;/front&gt;</subtitle>
-    <logo>https://fxy1549.github.io/images/avatar.png</logo>
+    <logo>https://fxy1549.github.io/images/avatar.jpg</logo>
     <icon>https://fxy1549.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, CCXX</rights>
     <entry>
@@ -15,6 +15,7 @@
         <id>https://fxy1549.github.io/post/My-Love/</id>
         <link href="https://fxy1549.github.io/post/My-Love/">
         </link>
+        <figure data-type="image" tabindex="1"><img src="https://fxy1549.github.io/post-images/automn.jpg" alt="" loading="lazy"></figure>
         <updated>2025-06-15T01:42:26.000Z</updated>
         <content type="html"><![CDATA[<p>昕，四年的时光已悄然过去，内心已被你填满，也被爱填满，希望执子之手与子偕老，周年快乐！</p>]]></content>
     </entry>
