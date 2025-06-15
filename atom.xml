@@ -11,25 +11,22 @@
     <icon>https://fxy1549.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, CCTT</rights>
     <entry>
-        <title type="html"><![CDATA[python-生成工程依赖包文件]]></title>
-        <id>https://fxy1549.github.io/post/python-sheng-cheng-gong-cheng-yi-lai-bao-wen-jian/</id>
-        <link href="https://fxy1549.github.io/post/python-sheng-cheng-gong-cheng-yi-lai-bao-wen-jian/">
+        <title type="html"><![CDATA[相识四周年快乐！]]></title>
+        <id>https://fxy1549.github.io/post/My-Love/</id>
+        <link href="https://fxy1549.github.io/post/My-Love/">
         </link>
-        <updated>2020-02-23T10:42:26.000Z</updated>
-        <content type="html"><![CDATA[<p>在使用python进行编程时，往往会用到很多依赖包，pipreqs工具能够帮助我们扫描某一工程，并生成其所使用到的所有依赖包清单。<br>
-首先确认计算机中是否安装有pipreqs工具，如果没有，安装此工具。<br>
-具体做法是，打开terminal，键入指令<code>pip3 install pipreqs</code>，安装完成后确认是否安装成功（键入指令<code>pipreqs --version</code>如果安装没有报错可以不做），安装完成后进入你要查询的工程目录（pycharm中的终端操作也可以），键入指令<code>pipreqs ./</code>，完成后会生成名字为requirements.txt的文本文档，里面就是该工程下所有依赖包及其版本。</p>
-]]></content>
+        <updated>2025-06-15T01:42:26.000Z</updated>
+        <content type="html"><![CDATA[<p>昕，四年的时光已悄然过去，内心已被你填满，也被爱填满，希望执子之手与子偕老，周年快乐！</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello PhD-Guo]]></title>
-        <id>https://fxy1549.github.io/post/Hello-Guo Xiaoyu/</id>
-        <link href="https://fxy1549.github.io/post/Hello-Guo Xiaoyu/">
+        <id>https://fxy1549.github.io/post/Hello-My Love Xin/</id>
+        <link href="https://fxy1549.github.io/post/Hello-My Love Xin/">
         </link>
-        <updated>2020-02-23T10:38:55.000Z</updated>
-        <content type="html"><![CDATA[<p>👏  欢迎来到 <strong>CCTT</strong> ！<br>
-✍️  我想在这里记录你，记录我们的生活... ...</p>
-<figure data-type="image" tabindex="1"><img src="https://fxy1549.github.io/post-images/1582454269765.JPG" alt="" loading="lazy"></figure>
+        <updated>2025-06-15T01:38:55.000Z</updated>
+        <content type="html"><![CDATA[<p>👏  欢迎来到 <strong>CCXX</strong> ！<br>
+✍️  相识四周年快乐！</p>
+<figure data-type="image" tabindex="1"><img src="https://fxy1549.github.io/post-images/My Love.jpg" alt="" loading="lazy"></figure>
 <p>😘 Enjoy~</p>
 ]]></content>
     </entry>
